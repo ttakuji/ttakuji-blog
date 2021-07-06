@@ -1,4 +1,4 @@
-baseURL = "ttakuji.netlify.app/"
+baseURL = "https://ttakuji.netlify.app/"
 theme = "hugo-apero"
 languageCode = "pt-br"
 title = "TTakuji"
