@@ -8,7 +8,7 @@ show_post_thumbnail: true
 show_author_byline: true
 show_post_date: true
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -27,7 +27,7 @@ sidebar:
 
 # set up common front matter for all pages inside blog/
 cascade:
-  author: "The R Markdown Team @RStudio"
+  author: "Takuji Takai"
   show_author_byline: true
   show_post_date: true
   show_disqus_comments: false # see disqusShortname in site config
