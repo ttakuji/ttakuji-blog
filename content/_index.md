@@ -1,16 +1,16 @@
 ---
-title: "Emily Cooper"
-subtitle: "Social media strategy @ Savoir"
-description: "Not all themes are created equal. With Blogophonic we set out to create a clean theme with the right features for a serious blog. We also wanted Blogophonic to be a pleasure to modify, so we built it with Tachyons, CSS Grid and packed it full of configurable options."
+title: "Takuji Takai"
+subtitle: "Analista de dados"
+description: "Analista de dados com habilidades em métodos quantitativos e qualitativos com experiência na área de cultura e educação."
 date: 2019-02-18T12:27:33-06:00
 images:
   - img/revoir.jpg
-image_left: true
-text_align_left: false
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about
-action_label: "Read More &rarr;"
+action_label: "Mais informações &rarr;"
 action_type: text # text, button
 type: home
 ---
