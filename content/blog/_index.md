@@ -1,7 +1,7 @@
 ---
-title: Blog sobre R e outras coisas
+title: Blog de programação e dados
 description: |
-  Blog criado para falar sobre a programação e dados
+  Espaço criado para escrever sobre programação e dados
 author: "Takuji"
 show_post_thumbnail: true
 show_author_byline: true

@@ -8,5 +8,5 @@ draft: true
 series:
 tags:
 categories:
-layout: single # single or single-sidebar
+layout: single-sidebar # single or single-sidebar
 ---
