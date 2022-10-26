@@ -9,6 +9,8 @@ categories:
 tags:
   - R
   - Windows
+summary: "Comece por aqui"
+
 ---
 # R no Windows
 

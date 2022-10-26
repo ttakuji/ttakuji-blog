@@ -8,9 +8,11 @@ categories:
 tags: []
 subtitle: ''
 excerpt: ''
-draft: no
+draft: false
 series: ~
 layout: single-sidebar
+summary: "Quais lugares eu procuro entender sobre R"
+
 ---
 
 Aqui vou postar os materiais que utilizo. Lógico que haverá coisas que não estarão aqui.
