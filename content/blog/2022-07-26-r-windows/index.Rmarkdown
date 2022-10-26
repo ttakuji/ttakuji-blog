@@ -5,6 +5,7 @@ date: '2022-07-26'
 slug: r-windows
 categories:
   - Programação
+  - R
 tags:
   - R
   - Windows
