@@ -1,0 +1,17 @@
+---
+title: postagem
+author: Takuji
+date: '2022-10-26'
+slug: []
+categories:
+  - lembretes
+tags: []
+draft: true 
+---
+
+Anotações importantes:
+
+*summary no cabeçalho faz criar o texto sem aparecer no post
+*imagem para o post. featured.jpg
+*criar o arquivo e depois colocar Knit
+*commit e depois push para publicar no site 
