@@ -10,28 +10,38 @@ subtitle: ''
 excerpt: ''
 draft: true
 series: ~
-layout: single-sidebar
+layout: single
 summary: "Quais lugares eu procuro entender sobre R"
 
 ---
 
-Aqui vou postar os materiais que utilizo. 
+Aqui vou postar os materiais são referências para mim. 
 
 Livros:
 * [Hands Hands-On Programming with R (disponível online em inglês)](https://rstudio-education.github.io/hopr/); livro introdutório 
-* [R for data science (disponível online em inglês)](https://r4ds.had.co.nz/); livro que mostra o R sendo utilizado para análise de dados
-* 
+* [R for data science (disponível online em inglês)](https://r4ds.had.co.nz/); livro que mostra o R sendo utilizado para análise de dados. A versão em português não é disponível na internet, sendo possível só adquirir fisicamente, no entanto, a versão que tenho é preto e branco e há gráficos coloridos... 
 
-Pessoas ou blogs da área:
+
+Pessoas ou blogs:
 * [Alisson Hill (em inglês) ](https://www.apreshill.com/); ela é uma cientista de dados formada em psicologia na área de ensino. Ela escreve tutoriais ótimos. 
-*Julia Silge
- https://twitter.com/juliasilge 
- 
- Jenny Bryan
-https://jennybc.github.io/purrr-tutorial/
-* Beatriz Milz https://t.co/VvioT2swQs
-Fernando Barbalho
+* [Julia Silge (em inglês)](https://twitter.com/juliasilge); ela é uma engenheira de dados. Durante a pandemia criou uma série de vídeos e textos ensinando como criar modelos.
+* [Jenny Bryan (em inglês)](https://jennybc.github.io/purrr-tutorial)/; professora de estatística e no site linkado há um tutorial de Purr, uma importante ferramenta em programação em R
 
 
+* [Beatriz Milz (em português e inglês)](https://beamilz.com/); instrutora do Curso R, escreve textos ótimos sobre programação. Integrante do grupo RLadies. (criarei um post explicando o que é)
+* [Fernando Barbalho (em português e inglês)](https://fernandobarbalho.medium.com/); não sei como descrevê-lo. Texto abordam dados públicos em relação a administração pública. Muito interessante.
+* [Curso R (em português)](https://curso-r.com/); curso para R que possui vários materiais de graça! 
 
-Para se programar, é interessante começar a entender o básico de lógica de programação. 
+
+Para criar esse blog, utilizei alguns materiais na internet:
+
+* motivo:
+[Por que você deve ter um blog (e escrever nele)](https://leportella.com/pt-br/porque-ter-um-blog/#desculpas-comuns-para-n%C3%A3o-escrever) e 
+[https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades](https://willianjusten.com.br/como-ter-um-blog-ajuda-a-conseguir-oportunidades)
+
+Uma pessoa com mais experiência me contou que é importante deixar registrado as atividades que faz, porque se um dia for necessário fazer algo que já fez, é mais fácil. Uma vez ele respondeu a uma pergunta em um fórum de internet explicando como faz para instalar um programa em um microprocessador. Dois anos depois, ele teve o problema, procurou na internet como fazer e quando foi realizar login na plataforma do fórum percebeu que o texto que o ajudou a resolver o problema, foi ele mesmo que tinha escrito. 
+
+* como fazer:
+[Material em inglês da Alisson Hill para fazer um blog utilizando Blogdown e o template Apero](https://www.apreshill.com/talk/2021-iyo-tunis/)
+
+
