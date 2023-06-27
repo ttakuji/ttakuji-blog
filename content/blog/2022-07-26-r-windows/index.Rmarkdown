@@ -18,7 +18,7 @@ Realize o download do R no seguinte link: <https://cran.r-project.org/bin/window
 
 Execute o arquivo e siga os procedimentos, basicamente, clique em Next ou Prosseguir.
 
-Recomendo fortemente que instale também o RTools, é uma ferramenta que possibilita criação de pacotes. Mesmo que não tenha objetivo de criar pacotes, é bom ter RTools para utilizar pacotes que utilizam ele. 
+Recomendo fortemente que instale também o RTools, é uma ferramenta que possibilita criação de pacotes. Mesmo que não tenha objetivo de criar pacotes, é bom ter RTools para utilizar pacotes que o utilizam. 
 
 O link para baixar é: <https://cran.r-project.org/bin/windows/Rtools/>.
 
@@ -32,7 +32,7 @@ Lógico que há outras interfaces. Recomendo o RStudio por ser adotado por grand
 # Instalação do RStudio
 
 Para baixar o arquivo, acesse <https://www.rstudio.com/>.
-* Durante a elaboração desse texto, RStudio anunciou que iria mudar de nome para posit.
+* Durante a elaboração desse texto, RStudio anunciou que iria mudar de nome para [Posit](https://posit.co/download/rstudio-desktop/).
 
 Aba products -> RStudio.
 Selecione a opção: 'RStudio Desktop'. Em seguida baixe o instalar clicando no botão 'Download RStudio Desktop'. 

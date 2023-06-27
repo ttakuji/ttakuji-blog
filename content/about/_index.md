@@ -2,7 +2,7 @@
 title: "About"
 description: |
   Sobre mim | about.
-show_header: true
+show_header: false
 sidebar_left: false
 # Keep this! Do not edit.
 cascade:

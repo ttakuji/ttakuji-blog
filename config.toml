@@ -3,7 +3,7 @@ theme = "hugo-apero"
 languageCode = "pt-br"
 title = "TTakuji"
 author = "Takuji Takai"
-copyright = "" # set to override the auto generated copyright using org info and now year
+copyright = "#" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = ""
 metaDataFormat = "yaml"
@@ -33,7 +33,7 @@ enableEmoji = true
   description = "Blog do Takuji"
   favicon = "/img/favicon.ico"
   logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog", "project", "talk"]
+  #about page, what do you want show: example: mainSections = ["blog", "project", "talk"] 
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
